@@ -1,0 +1,12 @@
+.visualproper{
+    margin: 0;
+    position:absolute;
+    top:20%;
+    left:12.5%;
+
+    color:black;
+    border:1px solid rgb(0, 0, 0);
+
+    height:75%;
+    width:75%;
+}

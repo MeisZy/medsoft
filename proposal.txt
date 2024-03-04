@@ -1,0 +1,5 @@
+This proposal aims to focus on improving the quality of healthcare services, particularly towards paramedics. 
+There are rare cases of patients having unusual, but life threatening symptoms that are needed to be addressed in the hospitals capable enough to facilitate them. 
+To address this issue, the proposed software captures or queries details regarding the nature of the patient. 
+Once analyzed, the program is supposed to recommend which other medical facilities / hospitals 
+(aside from the original establishment the paramedics arrived from) are capable of handling them. 

@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding:0px;
+}
+
+nav{
+    position:fixed;
+    top:0;
+    width: 100%;
+    z-index: 1;
+    
+    border:1.5px solid rgb(34, 165, 11);
+}
+
+nav ul{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a7fb6f; 
+}
+nav ul li{
+    display:inline-block;
+}
+nav ul li a{
+    color: rgb(0, 0, 0);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1vh;
+
+    text-decoration: none;
+
+    transition: color 0.3s ease-out;
+}
+
+nav ul li a:hover{
+    color:rgb(72, 169, 33);
+}
