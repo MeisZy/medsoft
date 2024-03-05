@@ -9,7 +9,7 @@ app.use((req, res, next) => {
     next();
   });
 
-const port = process.env.PORT || 4069;
+const port = process.env.PORT || 4068;
 
 app.get("/", (req,res) => {
     res.send({
@@ -18,5 +18,5 @@ app.get("/", (req,res) => {
 })
 
 app.listen(port, () =>
-    console.log(`Firm replica app listening on port ${port}`)
+    console.log(`Medsoft express server now running on port ${port}`)
     );

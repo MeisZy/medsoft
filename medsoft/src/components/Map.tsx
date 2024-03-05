@@ -1,13 +1,12 @@
 import './Map.css'
 
-function Map() {
+const Map = () => {
+  
   return (
-    <>
-     <div className="visualproper">
-        Insert map code here
-     </div>
-    </>
-  )
-}
+    <div>
+      
+    </div>
+  );
+};
 
-export default Map
+export default Map;
