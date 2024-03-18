@@ -1,16 +1,17 @@
 import './App.css'
 import Navbar from './components/Navbar'
-import Runner from './components/Runner'
-import Map from './components/Map'
+import Mapper from './components/Mapper'
+import Landing from './components/Landing'
+
 
 function App() {
 
   return (
     <>
-      <Navbar/>
-      <Runner/> 
-      <Map/>
-    </>
+        <Landing/>
+        <Navbar/>
+        <Mapper/>
+  </>
   )
 
 }
