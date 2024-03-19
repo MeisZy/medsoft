@@ -2,20 +2,24 @@
     margin: 0;
     padding: 0;
 }
-
+/* this class for designing */
 nav {
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 1;
     border: 1.5px solid rgb(34, 165, 11);
+    /*background: linear-gradient(135deg, rgba(181, 75, 75, 0), rgba(255,255,255,0));*/
+    
+    backdrop-filter: blur(4px);
+    border: 1px solid black;
+    box-shadow: 0 8px 32px 0 rgb(200, 237, 238);
 }
 
 nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #a7fb6f;
 }
 
 nav ul > p{
@@ -44,5 +48,6 @@ nav ul li a > p{
 }
 
 nav ul li a:hover {
-    color: rgb(72, 169, 33);
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 }

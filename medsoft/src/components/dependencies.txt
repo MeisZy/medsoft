@@ -1,3 +1,5 @@
 yarn add react react-dom leaflet react-leaflet
 yarn add leaflet-providers
 yarn add -D @types/leaflet
+yarn add react-leaflet-cluster
+yarn add leaflet-routing-machine
