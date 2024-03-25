@@ -22,6 +22,15 @@ function Mapper(){
     },
   ]
 
+ /* type Dictionary = Record<string,string>;
+
+  const tiers: Dictionary = {
+    'primary':'#55eb34',
+    'secondary':'#ecf005',
+    'tertiary':'#f09205',
+    'quarternay':'#ff2200',
+  }*/
+
   const customIcon = new Icon({
     iconUrl: Amogus,
     iconSize: [20, 20]
