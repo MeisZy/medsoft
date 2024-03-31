@@ -1,11 +1,22 @@
 import './Mapper.css';
 import "leaflet/dist/leaflet.css";
+import {useState} from 'react';
 import Amogus from '../assets/images/mapmarker/amogus.png';
 
 import {MapContainer, TileLayer, Marker, Popup} from 'react-leaflet';
 import { Icon } from "leaflet";
 
+import { usePapaParse } from 'react-papaparse';
+import MarkersMap from '../assets/datasets/medical_facilities_osm.csv';
+
 function Mapper(){
+
+  const [data, setData] = useState([]);
+  const [error, setError] = useState("");
+  const [file, setFile] = useState("");
+
+  const {readString} = usePapaParse();
+  const allowExtensions = ["csv"];
 
   const markers = [
     {
