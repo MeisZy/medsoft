@@ -2,9 +2,11 @@ import os
 import requests
 import csv
 
-ORIGIN = "14.6158,121.0421"
+
+#NCR center of origin
+ORIGIN = "14.6091,121.0223"
 OVERPASS_API_URL = "https://lz4.overpass-api.de/api/interpreter"
-radius_km = 10  
+radius_km = 100  
 
 radius_m = radius_km * 1000
 

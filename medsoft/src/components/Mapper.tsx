@@ -1,23 +1,16 @@
 import './Mapper.css';
 import "leaflet/dist/leaflet.css";
-import {useState} from 'react';
+//import {useState} from 'react';
 import Amogus from '../assets/images/mapmarker/amogus.png';
+import {useState} from 'react'
 
 import {MapContainer, TileLayer, Marker, Popup} from 'react-leaflet';
 import { Icon } from "leaflet";
-
 import { usePapaParse } from 'react-papaparse';
-import MarkersMap from '../assets/datasets/medical_facilities_osm.csv';
 
 function Mapper(){
-
-  const [data, setData] = useState([]);
-  const [error, setError] = useState("");
-  const [file, setFile] = useState("");
-
-  const {readString} = usePapaParse();
-  const allowExtensions = ["csv"];
-
+    
+  //
   const markers = [
     {
       geocode: [14.6258, 121.0617],
@@ -42,6 +35,8 @@ function Mapper(){
     'quarternay':'#ff2200',
   }*/
 
+
+  //attributes of leaflet marker
   const customIcon = new Icon({
     iconUrl: Amogus,
     iconSize: [20, 20]
