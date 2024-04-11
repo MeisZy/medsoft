@@ -1,0 +1,5241 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "name": "Protacio Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9965839,
+          14.5241939
+        ]
+      }
+    },
+    {
+      "name": "Ibajay District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1537662,
+          11.8116154
+        ]
+      }
+    },
+    {
+      "name": "Ronn Carmel Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9919955,
+          14.6579206
+        ]
+      }
+    },
+    {
+      "name": "UST Hospital Clinical Division",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9898193,
+          14.6122477
+        ]
+      }
+    },
+    {
+      "name": "Lady Of  Lourdes Hospital Of Kaybiga",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.007156,
+          14.719531
+        ]
+      }
+    },
+    {
+      "name": "Our Lady Of Mercy Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0397952,
+          14.721521
+        ]
+      }
+    },
+    {
+      "name": "A. R. Bautista Children And General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.043441,
+          14.7303
+        ]
+      }
+    },
+    {
+      "name": "St. John Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9656248,
+          14.6931601
+        ]
+      }
+    },
+    {
+      "name": "John-paul Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.991958,
+          14.659791
+        ]
+      }
+    },
+    {
+      "name": "Casual General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.070637,
+          14.7370013
+        ]
+      }
+    },
+    {
+      "name": "J. P. Sioson General Hospital And Colleges",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0250945,
+          14.6599034
+        ]
+      }
+    },
+    {
+      "name": "Hernandez General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9838197,
+          14.646813
+        ]
+      }
+    },
+    {
+      "name": "United Doctors Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0018723,
+          14.6171582
+        ]
+      }
+    },
+    {
+      "name": "Mt. Carmel Maternity And Children's Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.984481,
+          14.62762
+        ]
+      }
+    },
+    {
+      "name": "Fairview Polymedic Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04251,
+          14.729371
+        ]
+      }
+    },
+    {
+      "name": "Hernandez General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.989372,
+          14.653471
+        ]
+      }
+    },
+    {
+      "name": "Mother Regina",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.085128,
+          14.58352
+        ]
+      }
+    },
+    {
+      "name": "A. P. Cruz Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9575002,
+          14.6876655
+        ]
+      }
+    },
+    {
+      "name": "Dr. Montano G. Ramos General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0235618,
+          14.6595215
+        ]
+      }
+    },
+    {
+      "name": "Bagbaguin Family Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.005167,
+          14.7187774
+        ]
+      }
+    },
+    {
+      "name": "Mary's Infant General Hospital, Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.076271,
+          14.55577
+        ]
+      }
+    },
+    {
+      "name": "Pagamutang Bayan Ng Malabon",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9627243,
+          14.6552043
+        ]
+      }
+    },
+    {
+      "name": "Tanchoco Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.943161,
+          14.67563
+        ]
+      }
+    },
+    {
+      "name": "Our Lady Of Grace Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.981758,
+          14.64872
+        ]
+      }
+    },
+    {
+      "name": "Sanctissimo Rosario General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9843523,
+          14.6751115
+        ]
+      }
+    },
+    {
+      "name": "Belarmino Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8582351,
+          12.1930854
+        ]
+      }
+    },
+    {
+      "name": "San Marcelino District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1681459,
+          14.9598564
+        ]
+      }
+    },
+    {
+      "name": "Jesus the Saviour Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4115081,
+          14.2853056
+        ]
+      }
+    },
+    {
+      "name": "\u4e09\u6cf0\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2792169,
+          22.6557215
+        ]
+      }
+    },
+    {
+      "name": "Visayas Community Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8950452,
+          10.3063546
+        ]
+      }
+    },
+    {
+      "name": "St Therese Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5840089,
+          18.1428831
+        ]
+      }
+    },
+    {
+      "name": "Santo Ni\u00f1o Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.481009,
+          17.37301
+        ]
+      }
+    },
+    {
+      "name": "Klinika Tomasino",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.093099,
+          14.844028
+        ]
+      }
+    },
+    {
+      "name": "B A Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9580669,
+          14.7384585
+        ]
+      }
+    },
+    {
+      "name": "Ann Francis Mother & Child Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0312571,
+          14.6943711
+        ]
+      }
+    },
+    {
+      "name": "F M Cruz Ortopedic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8695972,
+          14.906521
+        ]
+      }
+    },
+    {
+      "name": "Tawiran Public Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9110293,
+          14.7445042
+        ]
+      }
+    },
+    {
+      "name": "Rizal Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2391653,
+          14.5165631
+        ]
+      }
+    },
+    {
+      "name": "Biliran Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3966029,
+          11.5568373
+        ]
+      }
+    },
+    {
+      "name": "Commcare, Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.023788,
+          14.501349
+        ]
+      }
+    },
+    {
+      "name": "Contreras Medical Clinic and Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8574984,
+          14.4132944
+        ]
+      }
+    },
+    {
+      "name": "Salazar Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9137511,
+          13.8850442
+        ]
+      }
+    },
+    {
+      "name": "Milagros Albano District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7783135,
+          17.4252979
+        ]
+      }
+    },
+    {
+      "name": "Mabalacat District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58039,
+          15.1924183
+        ]
+      }
+    },
+    {
+      "name": "Saint Catherine of Alexandria Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5851673,
+          15.1352338
+        ]
+      }
+    },
+    {
+      "name": "Armando Garcia Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5892671,
+          15.1422283
+        ]
+      }
+    },
+    {
+      "name": "Cuenca Medicaire",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0535723,
+          13.9009045
+        ]
+      }
+    },
+    {
+      "name": "Zigzag Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9454306,
+          13.7558099
+        ]
+      }
+    },
+    {
+      "name": "Tablas Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9838778,
+          12.3991874
+        ]
+      }
+    },
+    {
+      "name": "Metro Lipa Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1664694,
+          13.968376
+        ]
+      }
+    },
+    {
+      "name": "Espiritu Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6611785,
+          15.0548211
+        ]
+      }
+    },
+    {
+      "name": "EENT Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8226957,
+          14.8500309
+        ]
+      }
+    },
+    {
+      "name": "Santos Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8190497,
+          14.851879
+        ]
+      }
+    },
+    {
+      "name": "Pantinople Medical Clinic & Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6023632,
+          9.8833316
+        ]
+      }
+    },
+    {
+      "name": "Tugon Medical Clinic and Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0934072,
+          11.7185927
+        ]
+      }
+    },
+    {
+      "name": "Community Hospital Sebaste",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0947025,
+          11.5880416
+        ]
+      }
+    },
+    {
+      "name": "Silang Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.973772,
+          14.2279789
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.10983,
+          14.635583
+        ]
+      }
+    },
+    {
+      "name": "Mimosa Medical Clinic and Paramedic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5202424,
+          15.182634
+        ]
+      }
+    },
+    {
+      "name": "St Joseph Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9840561,
+          14.6529685
+        ]
+      }
+    },
+    {
+      "name": "Angeles Health Center,Atimonan Quezon",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9391547,
+          13.9924128
+        ]
+      }
+    },
+    {
+      "name": "Centralle Medical",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9845103,
+          14.6459906
+        ]
+      }
+    },
+    {
+      "name": "United Doctors Hospital of Kidapawan",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0875547,
+          7.0040195
+        ]
+      }
+    },
+    {
+      "name": "Makilala Medical Specialist Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0916878,
+          6.9570144
+        ]
+      }
+    },
+    {
+      "name": "Dela Cerna Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5758879,
+          7.1651839
+        ]
+      }
+    },
+    {
+      "name": "Paquibato District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4971102,
+          7.3730821
+        ]
+      }
+    },
+    {
+      "name": "Hinunangan Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1922855,
+          10.4011564
+        ]
+      }
+    },
+    {
+      "name": "Cambulo Baranggay Health Care Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1256342,
+          16.9505288
+        ]
+      }
+    },
+    {
+      "name": "Amisola Maternity Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9781047,
+          14.6328532
+        ]
+      }
+    },
+    {
+      "name": "Alabang Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0443189,
+          14.3910351
+        ]
+      }
+    },
+    {
+      "name": "Dayrit Derma Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9759075,
+          14.2458177
+        ]
+      }
+    },
+    {
+      "name": "Medina General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0240287,
+          8.1908161
+        ]
+      }
+    },
+    {
+      "name": "Matilde Olivas District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6831498,
+          18.2413753
+        ]
+      }
+    },
+    {
+      "name": "City Health",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9662143,
+          15.4865704
+        ]
+      }
+    },
+    {
+      "name": "Abucay health Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5353993,
+          14.7213612
+        ]
+      }
+    },
+    {
+      "name": "Kidapawan City Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0888459,
+          7.0079566
+        ]
+      }
+    },
+    {
+      "name": "Kidapawan Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.089398,
+          7.0089425
+        ]
+      }
+    },
+    {
+      "name": "Kabacan Polymedic Cooperative Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8318474,
+          7.1059488
+        ]
+      }
+    },
+    {
+      "name": "General Mariano Alvarez (GMA) Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0064647,
+          14.2969113
+        ]
+      }
+    },
+    {
+      "name": "Gov. Roque Ablan Sr. Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6017618,
+          18.1994456
+        ]
+      }
+    },
+    {
+      "name": "\u65b0\u751f\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1765381,
+          23.1604134
+        ]
+      }
+    },
+    {
+      "name": "\u73fe\u4ee3\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1814432,
+          23.2345865
+        ]
+      }
+    },
+    {
+      "name": "\u8056\u6069\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1802241,
+          23.231118
+        ]
+      }
+    },
+    {
+      "name": "Consolacion Community Doctors Inc. CCDI",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9632473,
+          10.3778511
+        ]
+      }
+    },
+    {
+      "name": "San Juan District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4012537,
+          13.8094227
+        ]
+      }
+    },
+    {
+      "name": "Tuguegarao People's Emergency Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7294834,
+          17.612911
+        ]
+      }
+    },
+    {
+      "name": "Metro Lemery Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9118466,
+          13.8877398
+        ]
+      }
+    },
+    {
+      "name": "Alaminos Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9706732,
+          16.1307073
+        ]
+      }
+    },
+    {
+      "name": "Aesthetic Avenue Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9916161,
+          14.4422175
+        ]
+      }
+    },
+    {
+      "name": "BF Maternity Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9915862,
+          14.4422958
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6472631,
+          10.6975188
+        ]
+      }
+    },
+    {
+      "name": "Pampanga EENT and General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6993392,
+          15.0212542
+        ]
+      }
+    },
+    {
+      "name": "Munoz Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7002014,
+          15.0197026
+        ]
+      }
+    },
+    {
+      "name": "City Health (North Section)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1764534,
+          13.4127662
+        ]
+      }
+    },
+    {
+      "name": "Ciriaco Tirol Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9275347,
+          11.96079
+        ]
+      }
+    },
+    {
+      "name": "Mambusao District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6043621,
+          11.4324341
+        ]
+      }
+    },
+    {
+      "name": "Alabang Medical Clinic (Montillano Branch)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0499702,
+          14.4192377
+        ]
+      }
+    },
+    {
+      "name": "Dr. Villamor Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0063593,
+          10.752585
+        ]
+      }
+    },
+    {
+      "name": "Saint Anthony Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7572608,
+          11.5777582
+        ]
+      }
+    },
+    {
+      "name": "Takas Baye-baye Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5089052,
+          11.4112677
+        ]
+      }
+    },
+    {
+      "name": "Concepcion District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6466742,
+          15.3296374
+        ]
+      }
+    },
+    {
+      "name": "Divine Love General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1584613,
+          13.9367253
+        ]
+      }
+    },
+    {
+      "name": "Lipa Doctor's Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1610147,
+          13.9409686
+        ]
+      }
+    },
+    {
+      "name": "Lito Layug Dental Laboratory",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6266683,
+          14.9627606
+        ]
+      }
+    },
+    {
+      "name": "Tanudan Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2307646,
+          17.2814179
+        ]
+      }
+    },
+    {
+      "name": "Geuvara's Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9717583,
+          14.2223029
+        ]
+      }
+    },
+    {
+      "name": "Alfonso Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0861052,
+          14.5681954
+        ]
+      }
+    },
+    {
+      "name": "Toledo Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9560651,
+          14.1433329
+        ]
+      }
+    },
+    {
+      "name": "Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9282904,
+          14.4060294
+        ]
+      }
+    },
+    {
+      "name": "Dy Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9794429,
+          15.1452615
+        ]
+      }
+    },
+    {
+      "name": "Calbayog District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5990443,
+          12.0684598
+        ]
+      }
+    },
+    {
+      "name": "St. James Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0855648,
+          7.6708638
+        ]
+      }
+    },
+    {
+      "name": "Our Lady of the Rule Maternity and General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.954159,
+          10.3105683
+        ]
+      }
+    },
+    {
+      "name": "Dagami Rural Health Unit",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9026732,
+          11.0657847
+        ]
+      }
+    },
+    {
+      "name": "Martinez Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4231778,
+          16.8922625
+        ]
+      }
+    },
+    {
+      "name": "Saint Catherine of Alexandria Annex & Medical Arts Building",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5760993,
+          15.1301928
+        ]
+      }
+    },
+    {
+      "name": "Hi-Precision Diagnostics",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.085355,
+          14.5764239
+        ]
+      }
+    },
+    {
+      "name": "De Luna-Cruz Dental Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9782927,
+          15.1449763
+        ]
+      }
+    },
+    {
+      "name": "DMC Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3464646,
+          8.5717346
+        ]
+      }
+    },
+    {
+      "name": "OKDI",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.345024,
+          8.5843736
+        ]
+      }
+    },
+    {
+      "name": "\u984f\u5a01\u88d5\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2956585,
+          22.7111887
+        ]
+      }
+    },
+    {
+      "name": "Soler Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6219755,
+          17.119645
+        ]
+      }
+    },
+    {
+      "name": "Yumena Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6155276,
+          17.1198526
+        ]
+      }
+    },
+    {
+      "name": "Llanera Emergency Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0193655,
+          15.6625399
+        ]
+      }
+    },
+    {
+      "name": "Guerrero Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2320771,
+          13.5817158
+        ]
+      }
+    },
+    {
+      "name": "Dr. A.P Zantua Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2396203,
+          13.586621
+        ]
+      }
+    },
+    {
+      "name": "Maasin",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7487489,
+          10.429416
+        ]
+      }
+    },
+    {
+      "name": "Holy Infant Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.725763,
+          17.6155797
+        ]
+      }
+    },
+    {
+      "name": "Santa Marcela District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4369033,
+          18.2934989
+        ]
+      }
+    },
+    {
+      "name": "Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5587157,
+          18.2259761
+        ]
+      }
+    },
+    {
+      "name": "Valenzuela City Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9777468,
+          14.6894963
+        ]
+      }
+    },
+    {
+      "name": "Eastern Laguna Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4511566,
+          14.4399882
+        ]
+      }
+    },
+    {
+      "name": "Saint Therese Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8042748,
+          8.4807257
+        ]
+      }
+    },
+    {
+      "name": "St. Martin Maternity and Pediatrics Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8741989,
+          14.425703
+        ]
+      }
+    },
+    {
+      "name": "Skin Station",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9619784,
+          14.1148112
+        ]
+      }
+    },
+    {
+      "name": "South Prime Medical and Wellness Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9309798,
+          14.1841141
+        ]
+      }
+    },
+    {
+      "name": "Subic District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2374663,
+          14.8899612
+        ]
+      }
+    },
+    {
+      "name": "Maternity",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8435891,
+          10.1334985
+        ]
+      }
+    },
+    {
+      "name": "Sogod District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9778248,
+          10.383613
+        ]
+      }
+    },
+    {
+      "name": "San Jose District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9577439,
+          12.0583251
+        ]
+      }
+    },
+    {
+      "name": "Nolasco Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6418744,
+          18.0619246
+        ]
+      }
+    },
+    {
+      "name": "\u6c38\u548c\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1988495,
+          22.9902881
+        ]
+      }
+    },
+    {
+      "name": "Ilocos Sur Cooperative Medical Mission Group Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3841702,
+          17.5618499
+        ]
+      }
+    },
+    {
+      "name": "Enriquez Dental Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5554032,
+          15.1631303
+        ]
+      }
+    },
+    {
+      "name": "Pambatang Klinik",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0217588,
+          13.7873081
+        ]
+      }
+    },
+    {
+      "name": "Magpoc Maternity Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8665221,
+          14.8393437
+        ]
+      }
+    },
+    {
+      "name": "Matalom Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7839778,
+          10.2771042
+        ]
+      }
+    },
+    {
+      "name": "Unihealth-Baypointe Hospital and Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2723215,
+          14.8239665
+        ]
+      }
+    },
+    {
+      "name": "Gaoat Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5653316,
+          18.050052
+        ]
+      }
+    },
+    {
+      "name": "Malolos Eye Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8220702,
+          14.8502435
+        ]
+      }
+    },
+    {
+      "name": "Malolos Maternity Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8222762,
+          14.8501744
+        ]
+      }
+    },
+    {
+      "name": "Malolos Klinika & Laboratorio",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.804522,
+          14.8504787
+        ]
+      }
+    },
+    {
+      "name": "Good Shepherd Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.844542,
+          14.9024985
+        ]
+      }
+    },
+    {
+      "name": "Malolos Veterinary Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8211693,
+          14.8656746
+        ]
+      }
+    },
+    {
+      "name": "San Nicolas Dental Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.886442,
+          14.9019537
+        ]
+      }
+    },
+    {
+      "name": "Montemayor Maternity & Childrens Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3948926,
+          16.5314494
+        ]
+      }
+    },
+    {
+      "name": "Fangonil Internal Medicine and Eye Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3948997,
+          16.5313951
+        ]
+      }
+    },
+    {
+      "name": "Habilities Center for Intervention (Therapy Center)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8063264,
+          14.8605135
+        ]
+      }
+    },
+    {
+      "name": "Physical Medicine & Rehabilitation Malolos",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8118866,
+          14.8556153
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1083912,
+          11.2159887
+        ]
+      }
+    },
+    {
+      "name": "Can-Avid Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4492656,
+          11.9988536
+        ]
+      }
+    },
+    {
+      "name": "Municipal Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0187727,
+          11.6245474
+        ]
+      }
+    },
+    {
+      "name": "Med Core Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4085535,
+          6.8392264
+        ]
+      }
+    },
+    {
+      "name": "Dingalan RHU",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3911246,
+          15.3882085
+        ]
+      }
+    },
+    {
+      "name": "\u67cf\u4ec1\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3035288,
+          22.6651442
+        ]
+      }
+    },
+    {
+      "name": "\u5049\u4ec1\u5065\u5eb7\u8a3a\u6240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2982742,
+          22.6722991
+        ]
+      }
+    },
+    {
+      "name": "Health Center - Zone 2",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8065136,
+          10.5151275
+        ]
+      }
+    },
+    {
+      "name": "Health Center - Utod",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8147104,
+          10.4991564
+        ]
+      }
+    },
+    {
+      "name": "Bagumbayan Healt Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8294616,
+          10.4338339
+        ]
+      }
+    },
+    {
+      "name": "South Western Univesity (SWU)-Argao Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5974111,
+          9.8766838
+        ]
+      }
+    },
+    {
+      "name": "Jalee Pharmacy Main",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8059507,
+          7.4482104
+        ]
+      }
+    },
+    {
+      "name": "Jal Pharmacy",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8024079,
+          7.4498736
+        ]
+      }
+    },
+    {
+      "name": "Borongan Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4329647,
+          11.6111448
+        ]
+      }
+    },
+    {
+      "name": "ARAW",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0081102,
+          11.1781966
+        ]
+      }
+    },
+    {
+      "name": "Holy Child Colleges of Butuan Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5378185,
+          8.9416916
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1435386,
+          11.566081
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.302334,
+          11.1415441
+        ]
+      }
+    },
+    {
+      "name": "Ramon Tabiana Memorial District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.4959369,
+          10.8697502
+        ]
+      }
+    },
+    {
+      "name": "Aleosan District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.4309319,
+          10.7864696
+        ]
+      }
+    },
+    {
+      "name": "Congressman Natalio Castillo Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8004631,
+          9.8163582
+        ]
+      }
+    },
+    {
+      "name": "Luis A. Tiam Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.224655,
+          16.5347608
+        ]
+      }
+    },
+    {
+      "name": "Esperanza Medical Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6545974,
+          8.6778697
+        ]
+      }
+    },
+    {
+      "name": "Bantayan Birthing Home",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7195515,
+          11.1664594
+        ]
+      }
+    },
+    {
+      "name": "Loreto Municipal Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8543632,
+          8.1842503
+        ]
+      }
+    },
+    {
+      "name": "\u4ec1\u4e00\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3012852,
+          23.5774293
+        ]
+      }
+    },
+    {
+      "name": "San Pedro Doctor's Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0649328,
+          14.3488642
+        ]
+      }
+    },
+    {
+      "name": "Malay Municipal Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9255419,
+          11.9038567
+        ]
+      }
+    },
+    {
+      "name": "Delbert Jon's Polyclinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7703046,
+          7.9014345
+        ]
+      }
+    },
+    {
+      "name": "SBMA Dispensary",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2766121,
+          14.821306
+        ]
+      }
+    },
+    {
+      "name": "Lanao del Norte Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7879391,
+          8.0330215
+        ]
+      }
+    },
+    {
+      "name": "Grace General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0682494,
+          14.8059299
+        ]
+      }
+    },
+    {
+      "name": "Santo Domingo District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8755938,
+          15.5914781
+        ]
+      }
+    },
+    {
+      "name": "Jesus Colmenares District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1076282,
+          11.4488131
+        ]
+      }
+    },
+    {
+      "name": "Jaime B. Berces Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7256912,
+          13.3603708
+        ]
+      }
+    },
+    {
+      "name": "Tabaco College Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7262752,
+          13.3565725
+        ]
+      }
+    },
+    {
+      "name": "Divine Mercy",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7274791,
+          17.6112047
+        ]
+      }
+    },
+    {
+      "name": "Burauen District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8889983,
+          10.9793423
+        ]
+      }
+    },
+    {
+      "name": "Metro Pagadian Hospital Inc",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4434546,
+          7.8281221
+        ]
+      }
+    },
+    {
+      "name": "Pagadian Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4467049,
+          7.8302556
+        ]
+      }
+    },
+    {
+      "name": "Boncas Holy Child Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.001906,
+          7.7580217
+        ]
+      }
+    },
+    {
+      "name": "Dasmari\u00f1as City Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9814663,
+          14.3529627
+        ]
+      }
+    },
+    {
+      "name": "God's Will Medical Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7694368,
+          16.9379101
+        ]
+      }
+    },
+    {
+      "name": "Philsaga Mining Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0374269,
+          8.2518537
+        ]
+      }
+    },
+    {
+      "name": "Hofile\u00f1a Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4373242,
+          7.8251868
+        ]
+      }
+    },
+    {
+      "name": "Midsayap Diagnostic Hospital (MDC)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5376843,
+          7.2091737
+        ]
+      }
+    },
+    {
+      "name": "Midsayap Community Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5417777,
+          7.2041891
+        ]
+      }
+    },
+    {
+      "name": "Renmar Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5428173,
+          16.6871807
+        ]
+      }
+    },
+    {
+      "name": "Assumpta Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9227539,
+          13.878946
+        ]
+      }
+    },
+    {
+      "name": "municipal health unit",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4343592,
+          17.4864368
+        ]
+      }
+    },
+    {
+      "name": "Judge Celestino Guerrero Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4776963,
+          17.3650633
+        ]
+      }
+    },
+    {
+      "name": "Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0724525,
+          9.9164332
+        ]
+      }
+    },
+    {
+      "name": "Casano Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.485904,
+          12.0409697
+        ]
+      }
+    },
+    {
+      "name": "Simeon G. Toribio Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1940026,
+          9.8202153
+        ]
+      }
+    },
+    {
+      "name": "Elumba Private Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0188974,
+          10.3201705
+        ]
+      }
+    },
+    {
+      "name": "San Joaquin Mother and Child Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1274171,
+          10.5919245
+        ]
+      }
+    },
+    {
+      "name": "Camp Lapu-Lapu Army Station Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9033159,
+          10.3374922
+        ]
+      }
+    },
+    {
+      "name": "DSWD REGIONAL REHABILITATION CENTER FOR YOUTH AYALA, MAGALANG, PAMPANGA",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7069212,
+          15.224798
+        ]
+      }
+    },
+    {
+      "name": "DSWD MAGALANG REHABILITATION CENTER MENOR DE EDAD",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7061697,
+          15.2253278
+        ]
+      }
+    },
+    {
+      "name": "Dublin Medical and Maternity Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9997203,
+          11.2510995
+        ]
+      }
+    },
+    {
+      "name": "Duay Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.527682,
+          9.115064
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6454807,
+          15.4333391
+        ]
+      }
+    },
+    {
+      "name": "First Health Panglao - Fairfield (private)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7608859,
+          9.5845199
+        ]
+      }
+    },
+    {
+      "name": "Mayor Hilarion A. Ramiro Sr. Regional and Teaching Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8583135,
+          8.1697852
+        ]
+      }
+    },
+    {
+      "name": "Doctors Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.836386,
+          8.1440666
+        ]
+      }
+    },
+    {
+      "name": "Datu Blah T. Sinsuat District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.164685,
+          7.0198506
+        ]
+      }
+    },
+    {
+      "name": "OWWA-MOPH Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4671581,
+          8.5716705
+        ]
+      }
+    },
+    {
+      "name": "\u4ec1\u611b\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2115865,
+          22.9897693
+        ]
+      }
+    },
+    {
+      "name": "Roxas Baptist Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.3258505,
+          10.3164784
+        ]
+      }
+    },
+    {
+      "name": "M'lang Doctors",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8845322,
+          6.9460712
+        ]
+      }
+    },
+    {
+      "name": "Makilala Midway Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0950907,
+          6.9538781
+        ]
+      }
+    },
+    {
+      "name": "Sagrada Familia Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8945679,
+          14.9719013
+        ]
+      }
+    },
+    {
+      "name": "Dolores Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4921293,
+          12.0507145
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6577106,
+          15.3202591
+        ]
+      }
+    },
+    {
+      "name": "Murcia Municipal Health Office",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0405185,
+          10.6057192
+        ]
+      }
+    },
+    {
+      "name": "Western Mindoro Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0653218,
+          12.3534237
+        ]
+      }
+    },
+    {
+      "name": "St. Magdalene Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0660723,
+          12.3557346
+        ]
+      }
+    },
+    {
+      "name": "\u6c2b\u6d3b\u5065\u5eb7\u9928",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3240946,
+          22.6122516
+        ]
+      }
+    },
+    {
+      "name": "Barangay 5 Health Station",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1687013,
+          12.4475026
+        ]
+      }
+    },
+    {
+      "name": "Albay Doctor's Hospital - Daraga",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7105877,
+          13.1540364
+        ]
+      }
+    },
+    {
+      "name": "\u65b0\u8208\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3167013,
+          23.3036565
+        ]
+      }
+    },
+    {
+      "name": "Ospital ng Baras",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2667181,
+          14.5215324
+        ]
+      }
+    },
+    {
+      "name": "Saint Camillus Maternity and Polyclinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4949068,
+          16.0348008
+        ]
+      }
+    },
+    {
+      "name": "Perpetual Succor Maternity Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9923296,
+          14.6080998
+        ]
+      }
+    },
+    {
+      "name": "Manito District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8713555,
+          13.1216791
+        ]
+      }
+    },
+    {
+      "name": "BAM C",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0068121,
+          10.6202656
+        ]
+      }
+    },
+    {
+      "name": "Gattaran Emergency Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7332565,
+          18.0360253
+        ]
+      }
+    },
+    {
+      "name": "Provincial Malward",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68838,
+          15.0232173
+        ]
+      }
+    },
+    {
+      "name": "Rico Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7314339,
+          13.3619524
+        ]
+      }
+    },
+    {
+      "name": "Rosales Chua Pun Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6362284,
+          15.9040482
+        ]
+      }
+    },
+    {
+      "name": "Corompido hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.983848,
+          10.3859655
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.283277,
+          12.496857
+        ]
+      }
+    },
+    {
+      "name": "Cortes Municipal Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.172243,
+          9.2550562
+        ]
+      }
+    },
+    {
+      "name": "Gamez Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1642734,
+          14.2129588
+        ]
+      }
+    },
+    {
+      "name": "Romualdez Katiku Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7233121,
+          6.7566677
+        ]
+      }
+    },
+    {
+      "name": "Accumed Diagnostic Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5954238,
+          15.1413759
+        ]
+      }
+    },
+    {
+      "name": "Mindanao Doctors Hospital and Cancer Center Incorporated",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8465701,
+          7.1025313
+        ]
+      }
+    },
+    {
+      "name": "\u4f51\u5b89\u4e2d\u91ab\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2930738,
+          22.7093767
+        ]
+      }
+    },
+    {
+      "name": "Clinica Henson",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5923496,
+          15.1510944
+        ]
+      }
+    },
+    {
+      "name": "Maguindanao Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4299819,
+          6.8517729
+        ]
+      }
+    },
+    {
+      "name": "Isabela South Specialist Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6423369,
+          16.6962233
+        ]
+      }
+    },
+    {
+      "name": "Binakayan Hospital and Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9260881,
+          14.4519604
+        ]
+      }
+    },
+    {
+      "name": "Siargao Island Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0572413,
+          9.7586359
+        ]
+      }
+    },
+    {
+      "name": "St. John Women's Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1972145,
+          13.8437012
+        ]
+      }
+    },
+    {
+      "name": "Crossroads Treatment and Rehabilitation Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1326996,
+          14.5480689
+        ]
+      }
+    },
+    {
+      "name": "\u52d5\u7269\u6536\u5bb9\u4e2d\u5fc3",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4679817,
+          23.464712
+        ]
+      }
+    },
+    {
+      "name": "Wao District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7220806,
+          7.6381725
+        ]
+      }
+    },
+    {
+      "name": "Mayoyao District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.221568,
+          16.9753653
+        ]
+      }
+    },
+    {
+      "name": "CM San Juan PCF-Infirmary",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8649809,
+          16.183776
+        ]
+      }
+    },
+    {
+      "name": "New Day Recovery Center (Babista)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6469846,
+          7.107036
+        ]
+      }
+    },
+    {
+      "name": "Emergency",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9858634,
+          16.1652679
+        ]
+      }
+    },
+    {
+      "name": "\u674e\u6fa4\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4510797,
+          22.4665522
+        ]
+      }
+    },
+    {
+      "name": "Roxas Memorial Provincial Hospital OPD",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7541205,
+          11.5237589
+        ]
+      }
+    },
+    {
+      "name": "Our Lady of Lourdes International Medical Center Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2691708,
+          14.8474805
+        ]
+      }
+    },
+    {
+      "name": "Eleuterio T. Decena Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.4683103,
+          9.6295377
+        ]
+      }
+    },
+    {
+      "name": "Rovillos",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9865777,
+          12.4032144
+        ]
+      }
+    },
+    {
+      "name": "\u9577\u751f\u85e5\u5c40",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5680499,
+          22.6109681
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9571535,
+          14.7497264
+        ]
+      }
+    },
+    {
+      "name": "Micah Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.992672,
+          14.5728051
+        ]
+      }
+    },
+    {
+      "name": "Salubris Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1930943,
+          16.5221106
+        ]
+      }
+    },
+    {
+      "name": "Palanan Station Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.4253879,
+          17.0650898
+        ]
+      }
+    },
+    {
+      "name": "Cagayan hospital center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1425913,
+          18.4543291
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.386467,
+          11.1091803
+        ]
+      }
+    },
+    {
+      "name": "\u60e0\u5fb7\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.325157,
+          22.5920545
+        ]
+      }
+    },
+    {
+      "name": "Ambulatory CPU Lingap Bata \u2013 UST Medical Social Service Dapartment",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.990071,
+          14.6115031
+        ]
+      }
+    },
+    {
+      "name": "Dra. Gina Marie Ponio",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6697039,
+          15.0460748
+        ]
+      }
+    },
+    {
+      "name": "Fatima University Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1522667,
+          14.6192564
+        ]
+      }
+    },
+    {
+      "name": "Barangay Health Station",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0442598,
+          11.6857153
+        ]
+      }
+    },
+    {
+      "name": "Se\u00f1or Santo Ni\u00f1o Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4149035,
+          15.6892109
+        ]
+      }
+    },
+    {
+      "name": "Khalifa District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0667577,
+          6.6489539
+        ]
+      }
+    },
+    {
+      "name": "Roxas Memorial Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7526823,
+          11.588057
+        ]
+      }
+    },
+    {
+      "name": "King of Kings Servant Healer Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9893055,
+          14.433875
+        ]
+      }
+    },
+    {
+      "name": "Isabela Doctor's General Hospital (IDGH)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8638528,
+          17.118037
+        ]
+      }
+    },
+    {
+      "name": "Rural Health Unit of Datu Paglas",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8685192,
+          6.7439587
+        ]
+      }
+    },
+    {
+      "name": "Medidas Medical Center, Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0846055,
+          7.9049434
+        ]
+      }
+    },
+    {
+      "name": "Sultan Kudarat Doctor's Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.674635,
+          6.6864224
+        ]
+      }
+    },
+    {
+      "name": "St.Anthony Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7565727,
+          11.5780464
+        ]
+      }
+    },
+    {
+      "name": "The Health Centrum Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7679903,
+          11.5813034
+        ]
+      }
+    },
+    {
+      "name": "manila east medical center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1436702,
+          14.5740982
+        ]
+      }
+    },
+    {
+      "name": "Lu Clinic and Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6811814,
+          6.6896676
+        ]
+      }
+    },
+    {
+      "name": "Bicol Region General Hospital and Geriatric Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0270142,
+          13.7630672
+        ]
+      }
+    },
+    {
+      "name": "Taguig Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0610061,
+          14.4788266
+        ]
+      }
+    },
+    {
+      "name": "Philippine Medical Tests System",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0246028,
+          14.6358797
+        ]
+      }
+    },
+    {
+      "name": "Goso Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.77141,
+          7.9236
+        ]
+      }
+    },
+    {
+      "name": "Maranding Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.77637,
+          7.92294
+        ]
+      }
+    },
+    {
+      "name": "Doctor J. Sabili General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0578217,
+          14.48889
+        ]
+      }
+    },
+    {
+      "name": "St. Michael Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8279528,
+          7.1066137
+        ]
+      }
+    },
+    {
+      "name": "PHO Conference Room and Supply Area",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5882041,
+          16.4501054
+        ]
+      }
+    },
+    {
+      "name": "Northern Benguet District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8162898,
+          16.7871051
+        ]
+      }
+    },
+    {
+      "name": "Balili -BHS",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8203809,
+          16.8744949
+        ]
+      }
+    },
+    {
+      "name": "Lepanto Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7803739,
+          16.8642841
+        ]
+      }
+    },
+    {
+      "name": "Dennis Molintas District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8240445,
+          16.5123111
+        ]
+      }
+    },
+    {
+      "name": "Kapangan District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.592468,
+          16.5749213
+        ]
+      }
+    },
+    {
+      "name": "Lubang District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.10801,
+          13.8536372
+        ]
+      }
+    },
+    {
+      "name": "\u5b8f\u79d1\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.286898,
+          23.1276524
+        ]
+      }
+    },
+    {
+      "name": "Schistosomiasis Hospital MNCU",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.994824,
+          11.1556773
+        ]
+      }
+    },
+    {
+      "name": "United Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2485179,
+          7.2189957
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8298571,
+          8.6437301
+        ]
+      }
+    },
+    {
+      "name": "Prime Global Care Medical Center Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.974338,
+          14.3979589
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3574205,
+          16.3921998
+        ]
+      }
+    },
+    {
+      "name": "\u9ec3\u7948\u771f\u4e2d\u91ab\u8a3a\u6240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1886708,
+          22.9974053
+        ]
+      }
+    },
+    {
+      "name": "ACE Medical Center - Tacloban",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0076565,
+          11.2045944
+        ]
+      }
+    },
+    {
+      "name": "Mental hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9271891,
+          10.3238134
+        ]
+      }
+    },
+    {
+      "name": "Grace Mission Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4195883,
+          13.0516937
+        ]
+      }
+    },
+    {
+      "name": "Samar Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8674932,
+          11.7871349
+        ]
+      }
+    },
+    {
+      "name": "Batanguenios Firing Range",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1398215,
+          13.8802014
+        ]
+      }
+    },
+    {
+      "name": "Samal District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7088569,
+          7.0747288
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8295098,
+          14.829329
+        ]
+      }
+    },
+    {
+      "name": "Malimono District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4019724,
+          9.6236312
+        ]
+      }
+    },
+    {
+      "name": "St. Louis General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.91929,
+          13.8557587
+        ]
+      }
+    },
+    {
+      "name": "Batangas Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9073522,
+          13.8951737
+        ]
+      }
+    },
+    {
+      "name": "Rural Health Unit",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0661566,
+          11.701395
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8887357,
+          16.3618644
+        ]
+      }
+    },
+    {
+      "name": "Pangasinan Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3488461,
+          15.9544261
+        ]
+      }
+    },
+    {
+      "name": "Capiz Doctor's Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7545638,
+          11.5773831
+        ]
+      }
+    },
+    {
+      "name": "Drug Abuse Treatment and Rehabilitation Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3175123,
+          16.592166
+        ]
+      }
+    },
+    {
+      "name": "Apalit Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7637962,
+          14.95241
+        ]
+      }
+    },
+    {
+      "name": "Vian Family Hospital II",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.021062,
+          14.682847
+        ]
+      }
+    },
+    {
+      "name": "Doctor Olivia Salamanca Memorial District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9112734,
+          14.4813635
+        ]
+      }
+    },
+    {
+      "name": "Bato Maternity and Children's Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3029089,
+          13.6081572
+        ]
+      }
+    },
+    {
+      "name": "Kaiser Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.013563,
+          14.5576905
+        ]
+      }
+    },
+    {
+      "name": "M.V. Santiago Medical and Diagnostic Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8768204,
+          14.1969546
+        ]
+      }
+    },
+    {
+      "name": "Dr. Pablo O. Torre Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9581676,
+          10.682532
+        ]
+      }
+    },
+    {
+      "name": "Bayanihan Cebu Field Center - SHS",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9047573,
+          10.3100161
+        ]
+      }
+    },
+    {
+      "name": "Hospital Kudat",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.83781,
+          6.9077929
+        ]
+      }
+    },
+    {
+      "name": "Rosal Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9740053,
+          14.2215448
+        ]
+      }
+    },
+    {
+      "name": "Silang Rural Health Unit",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9719861,
+          14.2171538
+        ]
+      }
+    },
+    {
+      "name": "GOV. ROQUE B. ABLAN SR. MEMORIAL HOSPITAL",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6012689,
+          18.1995323
+        ]
+      }
+    },
+    {
+      "name": "Barangay Ibayo Health Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5369868,
+          14.6804924
+        ]
+      }
+    },
+    {
+      "name": "Shalom Holistic Care Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0047869,
+          7.8948481
+        ]
+      }
+    },
+    {
+      "name": "COVID-19 Laboratory",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4307156,
+          7.8438038
+        ]
+      }
+    },
+    {
+      "name": "\u5fa9\u8208\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4957973,
+          22.6685039
+        ]
+      }
+    },
+    {
+      "name": "Lucena United Doctors Ambulatory Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6133537,
+          13.9374799
+        ]
+      }
+    },
+    {
+      "name": "\u4ec1\u6210\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.217054,
+          23.123594
+        ]
+      }
+    },
+    {
+      "name": "Dr. Robosa Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3706274,
+          13.4522826
+        ]
+      }
+    },
+    {
+      "name": "St. Joseph Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7772497,
+          17.3076503
+        ]
+      }
+    },
+    {
+      "name": "Saint Lawrence Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2790734,
+          13.1689684
+        ]
+      }
+    },
+    {
+      "name": "Minglanilla District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8041193,
+          10.2490162
+        ]
+      }
+    },
+    {
+      "name": "PROPOSED EVACUATION CENTER",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.581226,
+          16.4527642
+        ]
+      }
+    },
+    {
+      "name": "Altavas District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.4797783,
+          11.5345274
+        ]
+      }
+    },
+    {
+      "name": "Rizal Lying In",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6510129,
+          9.021484
+        ]
+      }
+    },
+    {
+      "name": "Dr. Jose Rizal District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.651285,
+          9.0208675
+        ]
+      }
+    },
+    {
+      "name": "ARTECHE DISTRICT HOSPITAL",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3729535,
+          12.2648166
+        ]
+      }
+    },
+    {
+      "name": "Lingap General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7707202,
+          15.1542761
+        ]
+      }
+    },
+    {
+      "name": "Leyte Provincial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0058994,
+          11.1810743
+        ]
+      }
+    },
+    {
+      "name": "LUMED",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3156713,
+          16.6147657
+        ]
+      }
+    },
+    {
+      "name": "MMG",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1782843,
+          16.5166138
+        ]
+      }
+    },
+    {
+      "name": "Our Lady of Grace Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.981379,
+          14.6488967
+        ]
+      }
+    },
+    {
+      "name": "RHU UMBERG",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0069822,
+          12.9857496
+        ]
+      }
+    },
+    {
+      "name": "Tagum Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8035891,
+          7.4391001
+        ]
+      }
+    },
+    {
+      "name": "Life Check Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4465832,
+          14.4207381
+        ]
+      }
+    },
+    {
+      "name": "Hospital / Quarantine Facility",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.459979,
+          14.4263713
+        ]
+      }
+    },
+    {
+      "name": "Patricia Rellosa-Sarabia, DMD",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4458959,
+          14.4209281
+        ]
+      }
+    },
+    {
+      "name": "Siniloan Diagnostic and Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4455859,
+          14.4210544
+        ]
+      }
+    },
+    {
+      "name": "Laguna Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4190919,
+          14.2726596
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.600298,
+          16.4273759
+        ]
+      }
+    },
+    {
+      "name": "Queensberry",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0396761,
+          14.7238749
+        ]
+      }
+    },
+    {
+      "name": "Our Lady of Lourdes Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0066929,
+          14.719221
+        ]
+      }
+    },
+    {
+      "name": "Ace Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8630907,
+          10.2870509
+        ]
+      }
+    },
+    {
+      "name": "St. Therese Maternity Lying-in Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7767787,
+          14.3274531
+        ]
+      }
+    },
+    {
+      "name": "Dr. Marcelo M. Chan Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.598242,
+          15.8835052
+        ]
+      }
+    },
+    {
+      "name": "JEANETTE S. RAMOS, M.D.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5895101,
+          15.3341124
+        ]
+      }
+    },
+    {
+      "name": "Old Devine mercy hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.729312,
+          17.6157908
+        ]
+      }
+    },
+    {
+      "name": "La Paz Medicare and Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7101186,
+          15.454406
+        ]
+      }
+    },
+    {
+      "name": "South Mangsee PHILIPPINES ISLAND",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2242193,
+          7.4579038
+        ]
+      }
+    },
+    {
+      "name": "Our Lady of Refuge Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6861285,
+          11.2978708
+        ]
+      }
+    },
+    {
+      "name": "Magallanes Medicare Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.840373,
+          12.82132
+        ]
+      }
+    },
+    {
+      "name": "Bulan Medicare Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8881432,
+          12.6643107
+        ]
+      }
+    },
+    {
+      "name": "Prieto Diaz Medicare Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.191438,
+          13.0445607
+        ]
+      }
+    },
+    {
+      "name": "Del Carmen Medical Clinic and Hospital Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5988134,
+          15.8829065
+        ]
+      }
+    },
+    {
+      "name": "Piat Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5019877,
+          17.7757106
+        ]
+      }
+    },
+    {
+      "name": "Birhen sa Regla Medical Clinic and Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8937543,
+          6.7935295
+        ]
+      }
+    },
+    {
+      "name": "Unihealth",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5650955,
+          13.9619079
+        ]
+      }
+    },
+    {
+      "name": "Holy Family Medical Center - Hemodialysis Unit",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5942919,
+          15.139885
+        ]
+      }
+    },
+    {
+      "name": "Dr. Serapio B. Montaner Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0776962,
+          7.5803474
+        ]
+      }
+    },
+    {
+      "name": "proposed hsopital lot location",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3581834,
+          16.3663122
+        ]
+      }
+    },
+    {
+      "name": "renz specialist",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7490502,
+          16.8651686
+        ]
+      }
+    },
+    {
+      "name": "renmar specialist",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8061709,
+          17.0051519
+        ]
+      }
+    },
+    {
+      "name": "Children of Abraham Puericulture Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7278542,
+          13.1436559
+        ]
+      }
+    },
+    {
+      "name": "Matnog Medicare Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0804485,
+          12.59083
+        ]
+      }
+    },
+    {
+      "name": "Metro Health Specialists Hospital Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0239435,
+          12.9824288
+        ]
+      }
+    },
+    {
+      "name": "Sts. Peter and Paul Hospital of Sorsogon Inc.",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0158664,
+          12.9792631
+        ]
+      }
+    },
+    {
+      "name": "Pantao District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3274009,
+          13.1934502
+        ]
+      }
+    },
+    {
+      "name": "Supercare Cebu",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.888146,
+          10.3166507
+        ]
+      }
+    },
+    {
+      "name": "Dentist",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9290453,
+          10.3278629
+        ]
+      }
+    },
+    {
+      "name": "JOrtiz Dialysis",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1137666,
+          14.580261
+        ]
+      }
+    },
+    {
+      "name": "Salaam Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2948049,
+          8.003623
+        ]
+      }
+    },
+    {
+      "name": "Mindanao Sanitorium and Hospital College",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2481835,
+          8.2416935
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5334774,
+          9.928291
+        ]
+      }
+    },
+    {
+      "name": "\u5bb8\u54c1\u4e2d\u91ab\u8a3a\u6240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3032364,
+          22.6345781
+        ]
+      }
+    },
+    {
+      "name": "\u738b\u80b2\u5f65\u8a3a\u6240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.304349,
+          22.6345024
+        ]
+      }
+    },
+    {
+      "name": "\u7dad\u5fb7\u8a3a\u6240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3048292,
+          22.6342835
+        ]
+      }
+    },
+    {
+      "name": "Dumaguete City Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2629744,
+          9.2914951
+        ]
+      }
+    },
+    {
+      "name": "\u5c0f\u6e2f\u91ab\u9662\u6025\u8a3a\u5ba4",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.363392,
+          22.5679169
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2869009,
+          14.8301584
+        ]
+      }
+    },
+    {
+      "name": "Nurse Marco",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9857175,
+          14.6903284
+        ]
+      }
+    },
+    {
+      "name": "Martin Marasigan Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.053802,
+          13.8994944
+        ]
+      }
+    },
+    {
+      "name": "Ospital Ng Nasugbu",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6309557,
+          14.0742118
+        ]
+      }
+    },
+    {
+      "name": "Ospital ng Lunsod ng Tagaytay",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9577135,
+          14.1224524
+        ]
+      }
+    },
+    {
+      "name": "Gamay General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3026129,
+          12.3856475
+        ]
+      }
+    },
+    {
+      "name": "Feliz Tooth District Dental Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5791382,
+          15.2095938
+        ]
+      }
+    },
+    {
+      "name": "Batangas MC OPD",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0660161,
+          13.7661447
+        ]
+      }
+    },
+    {
+      "name": "EVRMC",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4740438,
+          11.2534061
+        ]
+      }
+    },
+    {
+      "name": "Elsenor infirmary",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7892285,
+          13.2936809
+        ]
+      }
+    },
+    {
+      "name": "Rosary of Virgin Mary Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.394677,
+          14.1855359
+        ]
+      }
+    },
+    {
+      "name": "Barrios-Businos Medical Clinic and Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6974758,
+          14.2813686
+        ]
+      }
+    },
+    {
+      "name": "Ormoc Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6117738,
+          11.0047718
+        ]
+      }
+    },
+    {
+      "name": "Balis Doctors Infirmary",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7381533,
+          11.3220498
+        ]
+      }
+    },
+    {
+      "name": "\u5927\u7acb\u4e2d\u91ab\u8a3a\u6240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3488165,
+          22.7317826
+        ]
+      }
+    },
+    {
+      "name": "\u5927\u6b66\u885b\u751f\u6240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9078737,
+          22.3642612
+        ]
+      }
+    },
+    {
+      "name": "\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5685866,
+          12.0711906
+        ]
+      }
+    },
+    {
+      "name": "\u91ab\u9662",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5716109,
+          12.0720319
+        ]
+      }
+    },
+    {
+      "name": "Lourdes Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4139762,
+          13.4221213
+        ]
+      }
+    },
+    {
+      "name": "United Davao Specialist and Medical Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.590483,
+          7.0628325
+        ]
+      }
+    },
+    {
+      "name": "Women\u2019s and Children\u2019s Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9292989,
+          10.3414165
+        ]
+      }
+    },
+    {
+      "name": "Anahawan District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2571941,
+          10.2743612
+        ]
+      }
+    },
+    {
+      "name": "Consuelo K.Tan medical center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9788958,
+          10.3834175
+        ]
+      }
+    },
+    {
+      "name": "Davao de Oro Provincial Hospital Laak",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7875213,
+          7.822692
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9025768,
+          14.4435024
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9834744,
+          14.4882088
+        ]
+      }
+    },
+    {
+      "name": "Bunawan District Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9961872,
+          8.1755702
+        ]
+      }
+    },
+    {
+      "name": "RHU3",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6106265,
+          15.5760843
+        ]
+      }
+    },
+    {
+      "name": "BUHI COMMUNITY HOSPITAL",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.512416,
+          13.4115257
+        ]
+      }
+    },
+    {
+      "name": "Divine Word Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0007659,
+          11.2411345
+        ]
+      }
+    },
+    {
+      "name": "Ilocos Sur Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4515213,
+          17.1656352
+        ]
+      }
+    },
+    {
+      "name": "Unciano Paramedical General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.016232,
+          14.600722
+        ]
+      }
+    },
+    {
+      "name": "Esperanza Health Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0126889,
+          14.600614
+        ]
+      }
+    },
+    {
+      "name": "Our Lady of Lourdes Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0230978,
+          14.5947342
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0945893,
+          14.6948708
+        ]
+      }
+    },
+    {
+      "name": "Horizon Medical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1570638,
+          7.8565703
+        ]
+      }
+    },
+    {
+      "name": "MJM Multi-Specialist Medical and Diagnostic Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9394402,
+          7.6460651
+        ]
+      }
+    },
+    {
+      "name": "Ipil Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6033627,
+          7.7937848
+        ]
+      }
+    },
+    {
+      "name": "F. taylan Dental Care clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5919358,
+          18.200905
+        ]
+      }
+    },
+    {
+      "name": "Saint Camilus de Lelis Health Specialists'",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5914485,
+          18.2011119
+        ]
+      }
+    },
+    {
+      "name": "Ace Medical Center Dipolog",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3293897,
+          8.5431471
+        ]
+      }
+    },
+    {
+      "name": "Oroquieta Community Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8036505,
+          8.4866394
+        ]
+      }
+    },
+    {
+      "name": "Malubay Eye Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8391406,
+          13.4487913
+        ]
+      }
+    },
+    {
+      "name": "Arevalo Optical Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8390615,
+          13.4478518
+        ]
+      }
+    },
+    {
+      "name": "Puerto Galera Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9538198,
+          13.4966769
+        ]
+      }
+    },
+    {
+      "name": "Irosin general hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0263862,
+          12.6998569
+        ]
+      }
+    },
+    {
+      "name": "Davao Regional Medical Center (DRMC)",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8285427,
+          7.4220146
+        ]
+      }
+    },
+    {
+      "name": "GSAC GENERAL HOSPITAL INC",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0158539,
+          12.9795701
+        ]
+      }
+    },
+    {
+      "name": "Monte's Unicare Dental Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.847267,
+          13.3204358
+        ]
+      }
+    },
+    {
+      "name": "Dr. Magdalena Murillo Pegris",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8471757,
+          13.3236812
+        ]
+      }
+    },
+    {
+      "name": "Robys Dental Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0278336,
+          13.4768524
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.992407,
+          14.5756033
+        ]
+      }
+    },
+    {
+      "name": "St. Francis Doctors Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6211796,
+          8.4451021
+        ]
+      }
+    },
+    {
+      "name": "AlphaMed",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6565469,
+          15.059927
+        ]
+      }
+    },
+    {
+      "name": "Pangantucan Medical Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8403063,
+          7.8305393
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4153036,
+          8.6395818
+        ]
+      }
+    },
+    {
+      "name": "Adventist Hospital Palawan Clinic",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.398804,
+          11.1623686
+        ]
+      }
+    },
+    {
+      "name": "Baguio General Hospital and Medical Center",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.595958,
+          16.4010839
+        ]
+      }
+    },
+    {
+      "name": "DDVMH St. Peregrine Building",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3467089,
+          16.0366988
+        ]
+      }
+    },
+    {
+      "name": "Dagupan Doctors Villaflor Memorial Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3469901,
+          16.0374168
+        ]
+      }
+    },
+    {
+      "name": "Joni Villanueva General Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9437341,
+          14.7966671
+        ]
+      }
+    },
+    {
+      "name": "RPHS II",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1860811,
+          14.5782449
+        ]
+      }
+    },
+    {
+      "name": "Unknown",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1035187,
+          14.6336095
+        ]
+      }
+    }
+  ]
+}

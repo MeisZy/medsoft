@@ -2,11 +2,9 @@ import './Mapper.css';
 import "leaflet/dist/leaflet.css";
 //import {useState} from 'react';
 import Amogus from '../assets/images/mapmarker/amogus.png';
-import {useState} from 'react'
 
 import {MapContainer, TileLayer, Marker, Popup} from 'react-leaflet';
 import { Icon } from "leaflet";
-import { usePapaParse } from 'react-papaparse';
 
 function Mapper(){
     
