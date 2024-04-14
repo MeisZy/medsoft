@@ -10,7 +10,8 @@
           120.9965839,
           14.5241939
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Ronn Carmel Hospital",
@@ -21,7 +22,8 @@
           120.9919955,
           14.6579206
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "UST Hospital Clinical Division",
@@ -32,7 +34,8 @@
           120.9898193,
           14.6122477
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Lady Of  Lourdes Hospital Of Kaybiga",
@@ -43,7 +46,8 @@
           121.007156,
           14.719531
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Our Lady Of Mercy Hospital",
@@ -54,7 +58,8 @@
           121.0397952,
           14.721521
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "A. R. Bautista Children And General Hospital",
@@ -65,7 +70,8 @@
           121.043441,
           14.7303
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "St. John Hospital",
@@ -76,7 +82,8 @@
           120.9656248,
           14.6931601
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "John-paul Hospital",
@@ -87,7 +94,8 @@
           120.991958,
           14.659791
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Casual General Hospital",
@@ -98,7 +106,8 @@
           121.070637,
           14.7370013
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "J. P. Sioson General Hospital And Colleges",
@@ -109,7 +118,8 @@
           121.0250945,
           14.6599034
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Hernandez General Hospital",
@@ -120,7 +130,8 @@
           120.9838197,
           14.646813
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "United Doctors Medical Center",
@@ -131,7 +142,8 @@
           121.0018723,
           14.6171582
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Mt. Carmel Maternity And Children's Clinic",
@@ -142,7 +154,8 @@
           120.984481,
           14.62762
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Fairview Polymedic Hospital",
@@ -153,7 +166,8 @@
           121.04251,
           14.729371
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Hernandez General Hospital",
@@ -164,7 +178,8 @@
           120.989372,
           14.653471
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Mother Regina",
@@ -175,7 +190,8 @@
           121.085128,
           14.58352
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "A. P. Cruz Community Hospital",
@@ -186,7 +202,8 @@
           120.9575002,
           14.6876655
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Dr. Montano G. Ramos General Hospital",
@@ -197,7 +214,8 @@
           121.0235618,
           14.6595215
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Bagbaguin Family Hospital",
@@ -208,7 +226,8 @@
           121.005167,
           14.7187774
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Mary's Infant General Hospital, Inc.",
@@ -219,7 +238,8 @@
           121.076271,
           14.55577
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Pagamutang Bayan Ng Malabon",
@@ -230,7 +250,8 @@
           120.9627243,
           14.6552043
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Tanchoco Clinic",
@@ -241,7 +262,8 @@
           120.943161,
           14.67563
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Our Lady Of Grace Hospital",
@@ -252,7 +274,8 @@
           120.981758,
           14.64872
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Sanctissimo Rosario General Hospital",
@@ -263,7 +286,8 @@
           120.9843523,
           14.6751115
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "San Marcelino District Hospital",
@@ -274,7 +298,8 @@
           120.1681459,
           14.9598564
         ]
-      }
+      },
+      "hospital_type": "Secondary"
     },
     {
       "name": "Jesus the Saviour Hospital",
@@ -285,7 +310,8 @@
           121.4115081,
           14.2853056
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Klinika Tomasino",
@@ -296,7 +322,8 @@
           121.093099,
           14.844028
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "B A Hospital",
@@ -307,7 +334,8 @@
           120.9580669,
           14.7384585
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Ann Francis Mother & Child Hospital",
@@ -318,7 +346,8 @@
           121.0312571,
           14.6943711
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "F M Cruz Ortopedic",
@@ -329,7 +358,8 @@
           120.8695972,
           14.906521
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Tawiran Public Clinic",
@@ -340,7 +370,8 @@
           120.9110293,
           14.7445042
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Rizal Provincial Hospital",
@@ -351,7 +382,8 @@
           121.2391653,
           14.5165631
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Commcare, Inc.",
@@ -362,7 +394,8 @@
           121.023788,
           14.501349
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Contreras Medical Clinic and Hospital",
@@ -373,7 +406,8 @@
           120.8574984,
           14.4132944
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Salazar Hospital",
@@ -384,7 +418,8 @@
           120.9137511,
           13.8850442
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Mabalacat District Hospital",
@@ -395,7 +430,8 @@
           120.58039,
           15.1924183
         ]
-      }
+      },
+      "hospital_type": "Secondary"
     },
     {
       "name": "Saint Catherine of Alexandria Medical Center",
@@ -406,7 +442,8 @@
           120.5851673,
           15.1352338
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Armando Garcia Hospital",
@@ -417,7 +454,8 @@
           120.5892671,
           15.1422283
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Cuenca Medicaire",
@@ -428,7 +466,8 @@
           121.0535723,
           13.9009045
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Zigzag Hospital",
@@ -439,7 +478,8 @@
           120.9454306,
           13.7558099
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Metro Lipa Medical Center",
@@ -450,7 +490,8 @@
           121.1664694,
           13.968376
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Espiritu Clinic",
@@ -461,7 +502,8 @@
           120.6611785,
           15.0548211
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "EENT Hospital",
@@ -472,7 +514,8 @@
           120.8226957,
           14.8500309
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Santos Clinic",
@@ -483,7 +526,8 @@
           120.8190497,
           14.851879
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Silang Doctors Hospital",
@@ -494,7 +538,8 @@
           120.973772,
           14.2279789
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Mimosa Medical Clinic and Paramedic",
@@ -505,7 +550,8 @@
           120.5202424,
           15.182634
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "St Joseph Clinic",
@@ -516,7 +562,8 @@
           120.9840561,
           14.6529685
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Centralle Medical",
@@ -527,7 +574,8 @@
           120.9845103,
           14.6459906
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Amisola Maternity Hospital",
@@ -538,7 +586,8 @@
           120.9781047,
           14.6328532
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Alabang Medical Clinic",
@@ -549,7 +598,8 @@
           121.0443189,
           14.3910351
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Dayrit Derma Clinic",
@@ -560,7 +610,8 @@
           120.9759075,
           14.2458177
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "City Health",
@@ -571,7 +622,8 @@
           120.9662143,
           15.4865704
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Abucay health Center",
@@ -582,7 +634,8 @@
           120.5353993,
           14.7213612
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "General Mariano Alvarez (GMA) Hospital",
@@ -593,7 +646,8 @@
           121.0064647,
           14.2969113
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "San Juan District Hospital",
@@ -604,7 +658,8 @@
           121.4012537,
           13.8094227
         ]
-      }
+      },
+      "hospital_type": "Secondary"
     },
     {
       "name": "Metro Lemery Medical Center",
@@ -615,7 +670,8 @@
           120.9118466,
           13.8877398
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Aesthetic Avenue Medical Clinic",
@@ -626,7 +682,8 @@
           120.9916161,
           14.4422175
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "BF Maternity Clinic",
@@ -637,7 +694,8 @@
           120.9915862,
           14.4422958
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Pampanga EENT and General Hospital",
@@ -648,7 +706,8 @@
           120.6993392,
           15.0212542
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Munoz Clinic",
@@ -659,7 +718,8 @@
           120.7002014,
           15.0197026
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Alabang Medical Clinic (Montillano Branch)",
@@ -670,7 +730,8 @@
           121.0499702,
           14.4192377
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Concepcion District Hospital",
@@ -681,7 +742,8 @@
           120.6466742,
           15.3296374
         ]
-      }
+      },
+      "hospital_type": "Secondary"
     },
     {
       "name": "Divine Love General Hospital",
@@ -692,7 +754,8 @@
           121.1584613,
           13.9367253
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Lipa Doctor's Hospital",
@@ -703,7 +766,8 @@
           121.1610147,
           13.9409686
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Lito Layug Dental Laboratory",
@@ -714,7 +778,8 @@
           120.6266683,
           14.9627606
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Geuvara's Clinic",
@@ -725,7 +790,8 @@
           120.9717583,
           14.2223029
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Alfonso Clinic",
@@ -736,7 +802,8 @@
           121.0861052,
           14.5681954
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Toledo Hospital",
@@ -747,7 +814,8 @@
           120.9560651,
           14.1433329
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Medical Clinic",
@@ -758,7 +826,8 @@
           120.9282904,
           14.4060294
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Dy Clinic",
@@ -769,7 +838,8 @@
           120.9794429,
           15.1452615
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Saint Catherine of Alexandria Annex & Medical Arts Building",
@@ -780,7 +850,8 @@
           120.5760993,
           15.1301928
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Hi-Precision Diagnostics",
@@ -791,7 +862,8 @@
           121.085355,
           14.5764239
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "De Luna-Cruz Dental Clinic",
@@ -802,7 +874,8 @@
           120.9782927,
           15.1449763
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Valenzuela City Medical Center",
@@ -813,7 +886,8 @@
           120.9777468,
           14.6894963
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Eastern Laguna Medical Center",
@@ -824,7 +898,8 @@
           121.4511566,
           14.4399882
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "St. Martin Maternity and Pediatrics Hospital",
@@ -835,7 +910,8 @@
           120.8741989,
           14.425703
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Skin Station",
@@ -846,7 +922,8 @@
           120.9619784,
           14.1148112
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "South Prime Medical and Wellness Center",
@@ -857,7 +934,8 @@
           120.9309798,
           14.1841141
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Subic District Hospital",
@@ -868,7 +946,8 @@
           120.2374663,
           14.8899612
         ]
-      }
+      },
+      "hospital_type": "Secondary"
     },
     {
       "name": "Enriquez Dental Clinic",
@@ -879,7 +958,8 @@
           120.5554032,
           15.1631303
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Pambatang Klinik",
@@ -890,7 +970,8 @@
           121.0217588,
           13.7873081
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Magpoc Maternity Clinic",
@@ -901,7 +982,8 @@
           120.8665221,
           14.8393437
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Unihealth-Baypointe Hospital and Medical Center",
@@ -912,7 +994,8 @@
           120.2723215,
           14.8239665
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Malolos Eye Center",
@@ -923,7 +1006,8 @@
           120.8220702,
           14.8502435
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Malolos Maternity Hospital",
@@ -934,7 +1018,8 @@
           120.8222762,
           14.8501744
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Malolos Klinika & Laboratorio",
@@ -945,7 +1030,8 @@
           120.804522,
           14.8504787
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Good Shepherd Hospital",
@@ -956,7 +1042,8 @@
           120.844542,
           14.9024985
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Malolos Veterinary Clinic",
@@ -967,7 +1054,8 @@
           120.8211693,
           14.8656746
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "San Nicolas Dental Clinic",
@@ -978,7 +1066,8 @@
           120.886442,
           14.9019537
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Habilities Center for Intervention (Therapy Center)",
@@ -989,7 +1078,8 @@
           120.8063264,
           14.8605135
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Physical Medicine & Rehabilitation Malolos",
@@ -1000,7 +1090,8 @@
           120.8118866,
           14.8556153
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Dingalan RHU",
@@ -1011,7 +1102,8 @@
           121.3911246,
           15.3882085
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "San Pedro Doctor's Hospital",
@@ -1022,7 +1114,8 @@
           121.0649328,
           14.3488642
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "SBMA Dispensary",
@@ -1033,7 +1126,8 @@
           120.2766121,
           14.821306
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Grace General Hospital",
@@ -1044,7 +1138,8 @@
           121.0682494,
           14.8059299
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Dasmari\u00f1as City Medical Center",
@@ -1055,7 +1150,8 @@
           120.9814663,
           14.3529627
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Assumpta Hospital",
@@ -1066,7 +1162,8 @@
           120.9227539,
           13.878946
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "DSWD REGIONAL REHABILITATION CENTER FOR YOUTH AYALA, MAGALANG, PAMPANGA",
@@ -1077,7 +1174,8 @@
           120.7069212,
           15.224798
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "DSWD MAGALANG REHABILITATION CENTER MENOR DE EDAD",
@@ -1088,7 +1186,8 @@
           120.7061697,
           15.2253278
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Sagrada Familia Hospital",
@@ -1099,7 +1198,8 @@
           120.8945679,
           14.9719013
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Ospital ng Baras",
@@ -1110,7 +1210,8 @@
           121.2667181,
           14.5215324
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Perpetual Succor Maternity Hospital",
@@ -1121,7 +1222,8 @@
           120.9923296,
           14.6080998
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Provincial Malward",
@@ -1132,7 +1234,8 @@
           120.68838,
           15.0232173
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Gamez Hospital",
@@ -1143,7 +1246,8 @@
           121.1642734,
           14.2129588
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Accumed Diagnostic Center",
@@ -1154,7 +1258,8 @@
           120.5954238,
           15.1413759
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Clinica Henson",
@@ -1165,7 +1270,8 @@
           120.5923496,
           15.1510944
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Binakayan Hospital and Medical Center",
@@ -1176,7 +1282,8 @@
           120.9260881,
           14.4519604
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "St. John Women's Clinic",
@@ -1187,7 +1294,8 @@
           121.1972145,
           13.8437012
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Crossroads Treatment and Rehabilitation Center",
@@ -1198,7 +1306,8 @@
           121.1326996,
           14.5480689
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Our Lady of Lourdes International Medical Center Inc.",
@@ -1209,7 +1318,8 @@
           120.2691708,
           14.8474805
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Micah Clinic",
@@ -1220,7 +1330,8 @@
           120.992672,
           14.5728051
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Ambulatory CPU Lingap Bata \u2013 UST Medical Social Service Dapartment",
@@ -1231,7 +1342,8 @@
           120.990071,
           14.6115031
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Dra. Gina Marie Ponio",
@@ -1242,7 +1354,8 @@
           120.6697039,
           15.0460748
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Fatima University Medical Center",
@@ -1253,7 +1366,8 @@
           121.1522667,
           14.6192564
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "King of Kings Servant Healer Medical Clinic",
@@ -1264,7 +1378,8 @@
           120.9893055,
           14.433875
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "manila east medical center",
@@ -1275,7 +1390,8 @@
           121.1436702,
           14.5740982
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Taguig Doctors Hospital",
@@ -1286,7 +1402,8 @@
           121.0610061,
           14.4788266
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Philippine Medical Tests System",
@@ -1297,7 +1414,8 @@
           121.0246028,
           14.6358797
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Doctor J. Sabili General Hospital",
@@ -1308,7 +1426,8 @@
           121.0578217,
           14.48889
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Prime Global Care Medical Center Inc.",
@@ -1319,7 +1438,8 @@
           120.974338,
           14.3979589
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Batanguenios Firing Range",
@@ -1330,7 +1450,8 @@
           121.1398215,
           13.8802014
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "St. Louis General Hospital",
@@ -1341,7 +1462,8 @@
           120.91929,
           13.8557587
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Batangas Provincial Hospital",
@@ -1352,7 +1474,8 @@
           120.9073522,
           13.8951737
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Apalit Doctors Hospital",
@@ -1363,7 +1486,8 @@
           120.7637962,
           14.95241
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Vian Family Hospital II",
@@ -1374,7 +1498,8 @@
           121.021062,
           14.682847
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Doctor Olivia Salamanca Memorial District Hospital",
@@ -1385,7 +1510,8 @@
           120.9112734,
           14.4813635
         ]
-      }
+      },
+      "hospital_type": "Secondary"
     },
     {
       "name": "Kaiser Medical Center",
@@ -1396,7 +1522,8 @@
           121.013563,
           14.5576905
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "M.V. Santiago Medical and Diagnostic Center",
@@ -1407,7 +1534,8 @@
           120.8768204,
           14.1969546
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Rosal Medical Clinic",
@@ -1418,7 +1546,8 @@
           120.9740053,
           14.2215448
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Silang Rural Health Unit",
@@ -1429,7 +1558,8 @@
           120.9719861,
           14.2171538
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Barangay Ibayo Health Center",
@@ -1440,7 +1570,8 @@
           120.5369868,
           14.6804924
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Lucena United Doctors Ambulatory Clinic",
@@ -1451,7 +1582,8 @@
           121.6133537,
           13.9374799
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Lingap General Hospital",
@@ -1462,7 +1594,8 @@
           120.7707202,
           15.1542761
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Our Lady of Grace Hospital",
@@ -1473,7 +1606,8 @@
           120.981379,
           14.6488967
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Life Check Clinic",
@@ -1484,7 +1618,8 @@
           121.4465832,
           14.4207381
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Hospital / Quarantine Facility",
@@ -1495,7 +1630,8 @@
           121.459979,
           14.4263713
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Patricia Rellosa-Sarabia, DMD",
@@ -1506,7 +1642,8 @@
           121.4458959,
           14.4209281
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Siniloan Diagnostic and Medical Clinic",
@@ -1517,7 +1654,8 @@
           121.4455859,
           14.4210544
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Laguna Doctors Hospital",
@@ -1528,7 +1666,8 @@
           121.4190919,
           14.2726596
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Queensberry",
@@ -1539,7 +1678,8 @@
           121.0396761,
           14.7238749
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Our Lady of Lourdes Hospital",
@@ -1550,7 +1690,8 @@
           121.0066929,
           14.719221
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "St. Therese Maternity Lying-in Clinic",
@@ -1561,7 +1702,8 @@
           120.7767787,
           14.3274531
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "JEANETTE S. RAMOS, M.D.",
@@ -1572,7 +1714,8 @@
           120.5895101,
           15.3341124
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "La Paz Medicare and Community Hospital",
@@ -1583,7 +1726,8 @@
           120.7101186,
           15.454406
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Unihealth",
@@ -1594,7 +1738,8 @@
           121.5650955,
           13.9619079
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Holy Family Medical Center - Hemodialysis Unit",
@@ -1605,7 +1750,8 @@
           120.5942919,
           15.139885
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "JOrtiz Dialysis",
@@ -1616,7 +1762,8 @@
           121.1137666,
           14.580261
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Nurse Marco",
@@ -1627,7 +1774,8 @@
           120.9857175,
           14.6903284
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Martin Marasigan Memorial Hospital",
@@ -1638,7 +1786,8 @@
           121.053802,
           13.8994944
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Ospital Ng Nasugbu",
@@ -1649,7 +1798,8 @@
           120.6309557,
           14.0742118
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Ospital ng Lunsod ng Tagaytay",
@@ -1660,7 +1810,8 @@
           120.9577135,
           14.1224524
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Feliz Tooth District Dental Clinic",
@@ -1671,7 +1822,8 @@
           120.5791382,
           15.2095938
         ]
-      }
+      },
+      "hospital_type": "Secondary"
     },
     {
       "name": "Batangas MC OPD",
@@ -1682,7 +1834,8 @@
           121.0660161,
           13.7661447
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Unciano Paramedical General Hospital",
@@ -1693,7 +1846,8 @@
           121.016232,
           14.600722
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "Esperanza Health Center",
@@ -1704,7 +1858,8 @@
           121.0126889,
           14.600614
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Our Lady of Lourdes Hospital",
@@ -1715,7 +1870,8 @@
           121.0230978,
           14.5947342
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "AlphaMed",
@@ -1726,7 +1882,8 @@
           120.6565469,
           15.059927
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     },
     {
       "name": "Joni Villanueva General Hospital",
@@ -1737,7 +1894,8 @@
           120.9437341,
           14.7966671
         ]
-      }
+      },
+      "hospital_type": "Primary"
     },
     {
       "name": "RPHS II",
@@ -1748,7 +1906,8 @@
           121.1860811,
           14.5782449
         ]
-      }
+      },
+      "hospital_type": "Tertiary"
     }
   ]
 }
