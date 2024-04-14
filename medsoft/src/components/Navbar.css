@@ -29,6 +29,7 @@ nav ul > p{
 }
 
 nav ul li {
+    /*ADDRESS AN ALTERNATIVE*/
     display: inline-block;
 }
 
@@ -39,7 +40,7 @@ nav ul li a {
     align-items: center;
     padding: 1vh;
     text-decoration: none;
-    transition: color 0.3s ease-out;
+    transition: color 0.2s ease-out;
 }
 
 nav ul li a > p{

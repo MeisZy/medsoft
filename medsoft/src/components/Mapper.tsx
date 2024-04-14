@@ -7,32 +7,17 @@ import {MapContainer, TileLayer, Marker, Popup} from 'react-leaflet';
 import { Icon } from "leaflet";
 
 function Mapper(){
-    
-  //
+  
+  /*const parsed_markers = [
+    /insert mapped csv coordinates here.
+  ]
+  */
   const markers = [
     {
-      geocode: [14.6258, 121.0617],
-      popUp: "your very first react leaflet marker"
-    },
-    {
-      geocode: [14.6258, 121.0637],
-      popUp: "your 2nd react leaflet marker"
-    },
-    {
-      geocode: [14.6258, 121.0657],
-      popUp: "your 3rd react leaflet marker"
-    },
+      geocode: [14.6258,121.0617],
+      popUp: "top of the world"
+    }
   ]
-
- /* type Dictionary = Record<string,string>;
-
-  const tiers: Dictionary = {
-    'primary':'#55eb34',
-    'secondary':'#ecf005',
-    'tertiary':'#f09205',
-    'quarternay':'#ff2200',
-  }*/
-
 
   //attributes of leaflet marker
   const customIcon = new Icon({
@@ -40,7 +25,7 @@ function Mapper(){
     iconSize: [20, 20]
   })
 
-  const origin = [14.6258, 121.0617]
+  const origin = [14.6258,121.0617]
 
   return(
     <>
@@ -99,3 +84,12 @@ const [mapHeight, setMapHeight] = useState(400);
 
 
   */}
+
+   /* type Dictionary = Record<string,string>;
+
+  const tiers: Dictionary = {
+    'primary':'#55eb34',
+    'secondary':'#ecf005',
+    'tertiary':'#f09205',
+    'quarternay':'#ff2200',
+  }*/
