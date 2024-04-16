@@ -22,30 +22,25 @@ nav ul {
     align-items: center;
 }
 
-nav ul > p{
-    position: absolute;
-    right: 0;
-    margin-right: 10px;
-}
-
 nav ul li {
     /*ADDRESS AN ALTERNATIVE*/
     display: inline-block;
+    align-items: left;
 }
 
 nav ul li a {
+
+    height:40px;
+    line-height:40px;
+
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 1vh;
+    align-items: flex-start;
     text-decoration: none;
     transition: color 0.2s ease-out;
-}
-
-nav ul li a > p{
-    display:flex;
-    justify-content: flex-end;  
+    width: 100px;
+    padding:10px;
 }
 
 nav ul li a:hover {

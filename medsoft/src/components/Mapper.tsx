@@ -3,15 +3,12 @@ import "leaflet/dist/leaflet.css";
 //import {useState} from 'react';
 import Amogus from '../assets/images/mapmarker/amogus.png';
 
+import '../assets/datasets/medical_facilities_osm.csv'
+
 import {MapContainer, TileLayer, Marker, Popup} from 'react-leaflet';
 import { Icon } from "leaflet";
 
 function Mapper(){
-  
-  /*const parsed_markers = [
-    /insert mapped csv coordinates here.
-  ]
-  */
   const markers = [
     {
       geocode: [14.6258,121.0617],
