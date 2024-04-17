@@ -6,8 +6,7 @@ import json
 # TIP - QC as center of origin
 ORIGIN = "14.6091,121.0223"
 OVERPASS_API_URL = "https://overpass-api.de/api/interpreter"
-radius_km = 100  
-radius_m = radius_km * 1000
+radius_m= 10000  
 
 def fetch_medical_facilities():
     overpass_query = f"""

@@ -47,3 +47,19 @@ nav ul li a:hover {
     color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
 }
+
+
+.settingsrotate{
+    transition: animation 1s;
+}
+.settingsrotate:hover{
+    animation: IconSpin infinite 10s linear;
+}
+@keyframes IconSpin {
+    from{
+        transform: rotate(0deg)
+    }
+    to{
+        transform: rotate(+360deg)
+    }
+}
