@@ -2017,32 +2017,6 @@
       "hospital_type": "Tertiary"
     },
     {
-      "name": "Health Center - Zone 2",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          122.8065136,
-          10.5151275
-        ]
-      },
-      "city": "",
-      "hospital_type": "Tertiary"
-    },
-    {
-      "name": "Health Center - Utod",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          122.8147104,
-          10.4991564
-        ]
-      },
-      "city": "",
-      "hospital_type": "Tertiary"
-    },
-    {
       "name": "Bagumbayan Healt Center",
       "type": "Feature",
       "geometry": {
@@ -5641,19 +5615,6 @@
         ]
       },
       "city": "Antipolo",
-      "hospital_type": "Tertiary"
-    },
-    {
-      "name": "Borja Family Hospital",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.8545872,
-          9.6410291
-        ]
-      },
-      "city": "",
       "hospital_type": "Tertiary"
     },
     {

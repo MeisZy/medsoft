@@ -21,8 +21,8 @@ function Navbar({ onFilterChange }) {
             {showSettings && <Settings onFilterChange={onFilterChange} />}
             <img src={SettingsIcon} style={{ width: '25px', height: '25px' }} onClick={toggleSettings} className='settingsrotate'/>
           </li>
-          <li className='home'><a href="#">Home</a></li>
-          <li className='devs'><Link to="#">About Devs</Link></li>
+            <li className='home'><a href="#">Home</a></li>
+            <li className='devs'><Link to="#">About Devs</Link></li>
         </ul>
       </nav>
     </>
