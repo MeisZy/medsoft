@@ -2017,6 +2017,35 @@
       "hospital_type": "Tertiary"
     },
     {
+<<<<<<< HEAD
+=======
+      "name": "Health Center - Zone 2",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8065136,
+          10.5151275
+        ]
+      },
+      "city": "",
+      "hospital_type": "Tertiary"
+    },
+    {
+      "name": "Health Center - Utod",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8147104,
+          10.4991564
+        ]
+      },
+      "city": "",
+      "hospital_type": "Tertiary"
+    },
+    {
+>>>>>>> parent of 4e2a9e7 (update: minor changes)
       "name": "Bagumbayan Healt Center",
       "type": "Feature",
       "geometry": {
@@ -5618,6 +5647,22 @@
       "hospital_type": "Tertiary"
     },
     {
+<<<<<<< HEAD
+=======
+      "name": "Borja Family Hospital",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8545872,
+          9.6410291
+        ]
+      },
+      "city": "",
+      "hospital_type": "Tertiary"
+    },
+    {
+>>>>>>> parent of 4e2a9e7 (update: minor changes)
       "name": "PGH Gate 1",
       "type": "Feature",
       "geometry": {

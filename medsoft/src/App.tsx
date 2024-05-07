@@ -1,7 +1,6 @@
 import './App.css'
 import Navbar from './components/Navbar'
 import Mapper from './components/Mapper'
-import AboutDevs from './components/AboutDevs'
 
 import {Routes, Route} from 'react-router-dom'
 

@@ -83,4 +83,4 @@ with open(csv_file, "w", newline="", encoding="utf-8") as file:
 
 print(f"Data saved to {csv_file} and {geojson_file}")
 print(f"Out of {len(medical_facilities)}, There are {missing_city_count} facilities lacking their respective location.")
-print(f"Only {abs(((missing_city_count / len(medical_facilities)) * 100)-100):.2f}% have their respective locations")
+print(f"{(missing_city_count / len(medical_facilities)) * 100:.2f}% are missing their respective locations")
