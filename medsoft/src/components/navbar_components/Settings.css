@@ -1,19 +1,62 @@
 .settings-container {
-  position: relative;
-}
-
-.settings-dropdown {
-  position: absolute;
-  top: 100%;
+  position:absolute;
   right: 0;
-  width: 100%;
-  background-color: #fff;
+  top:-3.7px;
+  background-color: transparent;
   border: 1px solid #ccc;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  display: none;
+  padding: 10px;
+  width: 240px;
+  transition: background-color 0.3s;
 }
 
-.settings-dropdown.show {
-  display: block;
+.settings-container:hover {
+  background-color: #fdfdfd;
+}
+
+
+.settings-option {
+  margin-bottom: 15px;
+}
+
+.settings-option label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.settings-option input {
+  margin-right: 10px;
+}
+
+.settings-option input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+.settings-option input[type="checkbox"] + span {
+  font-size: 16px;
+}
+
+.settings-option input[type="checkbox"]:checked + span {
+  color: #0b4d02;
+  font-weight: bold;
+}
+
+.settings-button {
+  
+  background-color: #000000;
+  border: none;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.settings-button:hover {
+  background-color: #ffffff;
 }

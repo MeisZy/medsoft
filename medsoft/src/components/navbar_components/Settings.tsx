@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import './SearchBar.css'
+import React, { useState } from 'react';
+import './Settings.css';
 
 function Settings({ onFilterChange }) {
   const [showPublic, setShowPublic] = useState(true);
@@ -21,55 +21,62 @@ function Settings({ onFilterChange }) {
   };
 
   return (
-    <div>
-      <h2>Filter</h2> 
-      <label>
-        <input
-          type="checkbox"
-          checked={showPublic}
-          onChange={() => setShowPublic(!showPublic)}
-        />
-        Show Public Hospitals
-      </label>
-      <br />
-      <label>
-        <input
-          type="checkbox"
-          checked={showPrivate}
-          onChange={() => setShowPrivate(!showPrivate)}
-        />
-        Show Private Hospitals
-      </label>
-      <br />
+    <div className="settings-container">
+      <h2>Filter</h2>
+      <div className="settings-option">
+        <label>
+          <input
+            type="checkbox"
+            checked={showPublic}
+            onChange={() => setShowPublic(!showPublic)}
+          />
+          <span>Public Hospitals</span>
+        </label>
+      </div>
+      <div className="settings-option">
+        <label>
+          <input
+            type="checkbox"
+            checked={showPrivate}
+            onChange={() => setShowPrivate(!showPrivate)}
+          />
+          <span>Private Hospitals</span>
+        </label>
+      </div>
       <h3>Filter by Tier:</h3>
-      <label>
-        <input
-          type="checkbox"
-          checked={showPrimary}
-          onChange={() => setShowPrimary(!showPrimary)}
-        />
-        Primary
-      </label>
-      <br />
-      <label>
-        <input
-          type="checkbox"
-          checked={showSecondary}
-          onChange={() => setShowSecondary(!showSecondary)}
-        />
-        Secondary
-      </label>
-      <br />
-      <label>
-        <input
-          type="checkbox"
-          checked={showTertiary}
-          onChange={() => setShowTertiary(!showTertiary)}
-        />
-        Tertiary
-      </label>
-      <br />
-      <button onClick={handleFilterChange}>Apply Filters</button>
+      <div className="settings-option">
+        <label>
+          <input
+            type="checkbox"
+            checked={showPrimary}
+            onChange={() => setShowPrimary(!showPrimary)}
+          />
+          <span>Primary</span>
+        </label>
+      </div>
+      <div className="settings-option">
+        <label>
+          <input
+            type="checkbox"
+            checked={showSecondary}
+            onChange={() => setShowSecondary(!showSecondary)}
+          />
+          <span>Secondary</span>
+        </label>
+      </div>
+      <div className="settings-option">
+        <label>
+          <input
+            type="checkbox"
+            checked={showTertiary}
+            onChange={() => setShowTertiary(!showTertiary)}
+          />
+          <span>Tertiary</span>
+        </label>
+      </div>
+      <button className="settings-button" onClick={handleFilterChange}>
+        Apply Filters
+      </button>
     </div>
   );
 }

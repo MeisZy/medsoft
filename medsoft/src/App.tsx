@@ -13,7 +13,6 @@ function App() {
         <Navbar/>
           <Routes>
             <Route path="/" element={<Mapper/>}/>
-            <Route path="/aboutdevs" element={<AboutDevs/>}/>
           </Routes>
         <Mapper/>
       </div>
