@@ -1,14 +1,8 @@
 import './Home.css';
 import "leaflet/dist/leaflet.css";
-import DefaultPin from '../assets/images/mapmarker/default_pin.png';
-import PrimaryPin from '../assets/images/mapmarker/primary_pin.png';
-import SecondaryPin from '../assets/images/mapmarker/secondary_pin.png';
-import TertiaryPin from '../assets/images/mapmarker/tertiary_pin.png';
-import Amogus from '../assets/images/mapmarker/amogus.png';
 import { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
-import { MapContainer, TileLayer, Marker, Popup, Polyline, useMap } from 'react-leaflet';
-import { Icon } from "leaflet";
+import { MapContainer, TileLayer, Marker, Popup} from 'react-leaflet';
 
 // Type definitions for Hospital data
 interface Location {
@@ -130,13 +124,6 @@ function Home() {
         <Marker
           key={index}
           position={[hospital.latitude, hospital.longitude]}
-          icon={
-            hospital.HospitalsType === 'Primary'
-              ? primaryIcon
-              : hospital.HospitalsType === 'Secondary'
-              ? secondaryIcon
-              : tertiaryIcon
-          }
         >
           <Popup>
             <h3>{hospital.name}</h3>
