@@ -3,3 +3,6 @@ There are rare cases of patients having unusual, but life threatening symptoms t
 To address this issue, the proposed software captures or queries details regarding the nature of the patient. 
 Once analyzed, the program is supposed to recommend which other medical facilities / hospitals 
 (aside from the original establishment the paramedics arrived from) are capable of handling them. 
+
+
+qCTzZr6GCzXABivb

@@ -76,7 +76,7 @@ with open(geojson_file, "w", encoding="utf-8") as file:
 csv_file = os.path.join(os.path.dirname(__file__), "medical_facilities_osm.csv")
 with open(csv_file, "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
-    writer.writerow(["Name", "Latitude", "Longitude", "Hospital Type", "City", "Location"])
+    writer.writerow(["Name", "Latitude", "Longitude", "HospitalsType", "City", "Location"])
     for facility in medical_facilities:
         location = f"{facility['geometry']['coordinates'][1]}, {facility['geometry']['coordinates'][0]}"
         writer.writerow([facility["name"], facility["geometry"]["coordinates"][1], facility["geometry"]["coordinates"][0], facility["hospital_type"], facility["city"], location])
