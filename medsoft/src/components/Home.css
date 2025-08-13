@@ -9,6 +9,14 @@
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.leaflet-container {
+  width: 100%;
+  height: calc(100vh - 60px);
+  margin-top: 60px;
+  position: relative;
+  z-index: 1;
+}
+
 .navigation ul {
   list-style: none;
   margin: 0;
@@ -51,28 +59,63 @@
   z-index: 1000;
 }
 
-.leaflet-container {
-  width: 100%;
-  height: calc(100vh - 60px); /* Subtract nav height */
-  margin-top: 60px; /* Add nav height margin */
-  z-index: 1;
-}
-
-.leaflet-container {
-  width: 100%;
-  height: calc(100vh - 60px);
-  margin-top: 60px;
-  position: relative;
-  z-index: 1;
-}
-
-.navigation {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 2;
+.leaflet-routing-container {
   background: white;
-  padding: 1rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  max-height: 300px;
+  overflow-y: auto;
+  width: 300px;
+}
+
+.leaflet-routing-alt {
+  max-height: 250px;
+}
+
+.user-location-marker {
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.leaflet-container .leaflet-overlay-pane path {
+  pointer-events: none;
+}
+
+.leaflet-container path.leaflet-interactive {
+  cursor: crosshair;
+}
+
+.leaflet-container path.leaflet-interactive:hover {
+  stroke-opacity: 1;
+}
+
+.nav-title {
+  margin-right: auto;
+}
+
+.nav-title p {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #000000;
+}
+
+.navigation ul {
+  justify-content: center;
+  padding: 0 2rem;
 }
